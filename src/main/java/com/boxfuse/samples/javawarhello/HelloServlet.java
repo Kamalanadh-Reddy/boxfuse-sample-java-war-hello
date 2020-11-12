@@ -8,6 +8,6 @@ import javax.servlet.http.HttpServlet;
 public class HelloServlet extends HttpServlet {
     @Override
     public void init() throws ServletException {
-        System.out.println("HelloServlet1: You should see this in the Instance Logs18 :-)");
+        System.out.println("HelloServlet1: You should see this in the Instance Logs20 :-)");
     }
 }
